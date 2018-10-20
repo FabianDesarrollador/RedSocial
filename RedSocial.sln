@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedSocial.Api", "RedSocial.Api\RedSocial.Api.csproj", "{80D170A4-59A1-4BCC-AE67-773C272312B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedSocial.Dominio", "RedSocial.Dominio\RedSocial.Dominio.csproj", "{6AAC1A98-9928-4AE7-B9EE-F0921D822C26}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{80D170A4-59A1-4BCC-AE67-773C272312B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80D170A4-59A1-4BCC-AE67-773C272312B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80D170A4-59A1-4BCC-AE67-773C272312B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AAC1A98-9928-4AE7-B9EE-F0921D822C26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AAC1A98-9928-4AE7-B9EE-F0921D822C26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AAC1A98-9928-4AE7-B9EE-F0921D822C26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AAC1A98-9928-4AE7-B9EE-F0921D822C26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
